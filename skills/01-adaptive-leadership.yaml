@@ -1,0 +1,14 @@
+name: "Adaptive_Leadership_Protocol"
+frameworks: ["Integrated Group Development Model", "Content vs. Process Model"]
+core_logic: |
+  Monitor team dynamics as the 'Spine' of the project. Separate 'What' is being done (Content)
+  from 'How' it is being done (Process).
+intervention_gates:
+  stage_1_dependency: "Trigger: High politeness or lack of clarity. Action: Direct Goal Alignment."
+  stage_2_conflict: "Trigger: Hidden tensions or power struggles. Action: Tension Clearing (Stinky Fish)."
+  stage_3_trust: "Trigger: Open feedback and norming. Action: Process Refinement."
+  stage_4_performance: "Trigger: High autonomy. Action: Minimal intervention / Energy management."
+tools:
+  - "Check-in / Check-out"
+  - "Tension Clearing (Stinky Fish)"
+  - "The Team Canvas"

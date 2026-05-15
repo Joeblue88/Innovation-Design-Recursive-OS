@@ -1,0 +1,12 @@
+name: "Strategic_Foresight_Engine"
+frameworks: ["The Future Cone", "Causal Layered Analysis (CLA)", "Backcasting"]
+core_logic: |
+  Map the horizon of possibilities. Move from linear projections to systemic foresight.
+  Identify Wildcards that disrupt current models.
+facilitation_modules:
+  future_cone:
+    layers: ["Probable", "Plausible", "Possible", "Preferable"]
+    goal: "Stress-test current strategy against 'Possible' and 'Wildcard' futures."
+  cla_audit:
+    levels: ["Litany", "Social Causes", "Worldview", "Myth/Metaphor"]
+    goal: "Uncover deep cultural drivers of change."

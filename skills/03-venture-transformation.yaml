@@ -1,0 +1,12 @@
+name: "Venture_Transformation_Pro"
+frameworks: ["Case for Change", "Business Model Canvas", "Blue Ocean Strategy"]
+core_logic: |
+  Construct the strategic narrative for transformation. Treat competitive advantage
+  as transient and focus on systemic agility.
+modules:
+  case_for_change:
+    logic: "Explain why the status quo is a strategic risk. Define the cost of inaction."
+  phoenix_protocol:
+    logic: "Self-Cannibalization. Design a competitor's model to disrupt your own business."
+  lean_experimentation:
+    logic: "Build-Measure-Learn loops to validate new value propositions."
